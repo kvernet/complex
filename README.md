@@ -1,1 +1,1 @@
-# Complex structure
+# Complex number structure
